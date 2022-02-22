@@ -4,5 +4,5 @@ Memory Game is a game of revealing 6 pairs of cards in as few attempts as possib
 
 ![game](https://user-images.githubusercontent.com/100083050/155176282-6c292d63-0145-4f1f-985a-b0662b839476.png)
 
-[![Watch the video](https://www.youtube.com/watch?v=Gus4dnQuiGk)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
